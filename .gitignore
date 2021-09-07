@@ -1,5 +1,7 @@
 __tests__/runner/*
 
+.tool-versions
+
 node_modules/
 lib/
 
